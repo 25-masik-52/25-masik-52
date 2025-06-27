@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dpc2JvcW9rYWR5eWhraGlxdmp5ZHU0aG00bXFxeW95bWkwNHhvMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9Pi3zBrQIOM4971kuc/giphy.gif" alt="demo"/>
 	<br>
-  <a href="#">
+  <a href="https://t.me/git_25_masik_52">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 	</a>
 	<a href="https://25-masik-52.github.io/25-masik-52.website/"> 
