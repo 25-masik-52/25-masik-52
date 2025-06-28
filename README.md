@@ -7,7 +7,7 @@
 	<a href="https://25-masik-52.github.io/25-masik-52.website/"> 
 		<img src="https://img.shields.io/badge/ID_website-red?style=for-the-badge" alt="ID website Badge"/>
 	</a>
-	<a href="https://3len4ik3@gmail.com">
+	<a href="https://25masik52@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 	</a>
 	<br>
